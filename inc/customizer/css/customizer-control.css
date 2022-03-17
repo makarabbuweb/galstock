@@ -1,0 +1,5 @@
+.jlc-image-select input {display: none;}
+.jlc-image-select {width: 25%; float: left; padding: 0 10px 0px 0; margin-bottom: 5px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+.jlc-image-select img {width: 100%; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; border: 2px solid #fff; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+.jlc-image-select:hover img, .jlc-image-select.asw-active img {border-color: #0085b7;}
+.jlc_headding{background: #3f8aef; padding: 6px 10px; color: #fff; margin-bottom: 0px; font-size: 14px;}

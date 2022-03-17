@@ -1,0 +1,17 @@
+.elementor-panel .elementor-element .icon i.jl-icons::after{
+    font-family: arial;
+    content: "Jelly Wp";
+    display: inline-block;
+    text-transform: uppercase;
+    font-style: normal;
+    font-size: 7px;
+    background: #ffcb00;
+    color: #000;
+    height: 14px;
+    line-height: 14px;
+    padding: 0px 3px;
+    letter-spacing: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
