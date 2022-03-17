@@ -1,5 +1,5 @@
 # Galstock
-WordPress theme for store image on IPFS
+WordPress theme stock photos for free with IPFS
 Video: https://www.youtube.com/watch?v=Xb1xBKepbSs
 
 How to install:
